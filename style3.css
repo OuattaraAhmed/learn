@@ -1,0 +1,19 @@
+
+body {
+  background-color: #DAD7D6 ;	
+  background-image: url("image/classe.jpg");
+  background-position: 50% 50%;
+  }
+
+  p {
+      text-align: center;
+  }
+  .enc {
+    position: absolute;
+    text-align: right;
+  }
+
+  .desc {
+    margin-right: 150px ;
+  
+  }
